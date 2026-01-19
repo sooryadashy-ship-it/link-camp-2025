@@ -46,12 +46,11 @@ Want to check out the code? Follow these steps to run it on your machine:
 
 ## 🌐 Deployment
 
-The website is live! You can view it here: [Link to Deployed Site](https://your-deployed-site-link.com)
-*(Note: Replace with actual deployment link)*
+The website is live! You can view it here: [Link to Deployed Site](https://sooryadashy-ship-it.github.io/link-camp-2025/)
 
 ## 💭 Personal Note
 
 I really enjoyed working on this task! It was a great opportunity to practice my React skills and think about how to present event information effectively. I tried to pay attention to small details like spacing and typography to make it look professional. Hope you like it! 😊
 
 ---
-*Submitted by [Your Name]*
+
