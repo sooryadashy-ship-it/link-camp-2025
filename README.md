@@ -27,8 +27,8 @@ Want to check out the code? Follow these steps to run it on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/link-camp-task-by-your-fullname.git
-   cd link-camp-task-by-your-fullname
+   git clone https://github.com/sooryadashy-ship-it/link-camp-2025.git
+   cd link-camp-2025
    ```
 
 2. **Install dependencies:**
